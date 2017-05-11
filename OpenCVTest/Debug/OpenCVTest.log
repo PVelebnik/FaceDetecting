@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\ss\opencvtest\opencvtest\facedetector.h(3): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+  IObservable.cpp
+  FaceDetector.cpp
+d:\ss\opencvtest\opencvtest\facedetector.h(3): fatal error C1083: Cannot open include file: 'opencv2/objdetect/objdetect.hpp': No such file or directory
+  Generating Code...
